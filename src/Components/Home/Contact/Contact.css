@@ -1,0 +1,6 @@
+.contact-container {
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
